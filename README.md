@@ -6,5 +6,5 @@ where，pruned_model.pth placed in the root (./) directory of the project，
 and Y_test.txt placed in the (./weight/) directory of the project.
 
 
-requires:
+requirements:
 
